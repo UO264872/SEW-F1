@@ -1,0 +1,16 @@
+<!ELEMENT carreras (carrera+)>
+<!ELEMENT carrera (circuito,ganador,nacimiento-ganador,pais-ganador,coordenadas-nacimiento-ganador,
+foto-ganador?,fecha-competicion,pais-circuito,coordenadas-circuito,videos,comentarios)>
+<!ELEMENT circuito (#PCDATA)>
+<!ELEMENT ganador (#PCDATA)>
+<!ELEMENT nacimiento-ganador (#PCDATA)>
+<!ELEMENT pais-ganador (#PCDATA)>
+<!ELEMENT coordenadas-nacimiento-ganador (#PCDATA)>
+<!ELEMENT foto-ganador (#PCDATA)>
+<!ELEMENT fecha-competicion (#PCDATA)>
+<!ELEMENT pais-circuito (#PCDATA)>
+<!ELEMENT coordenadas-circuito (#PCDATA)>
+<!ELEMENT videos (video,video?,video?)>
+<!ELEMENT video (#PCDATA)>
+<!ELEMENT comentarios (comentario*)>
+<!ELEMENT comentario (#PCDATA)>

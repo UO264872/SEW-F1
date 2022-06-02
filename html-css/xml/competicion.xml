@@ -1,0 +1,434 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE carreras SYSTEM "competicion.dtd">
+<carreras>
+    <carrera>
+        <circuito>Circuito internacional de Bahrein</circuito>
+        <ganador>L.Hamilton</ganador>
+        <nacimiento-ganador>1985-01-07</nacimiento-ganador>
+        <pais-ganador>Gran Bretaña</pais-ganador>
+        <coordenadas-nacimiento-ganador>51.902617,-0.2278547,13</coordenadas-nacimiento-ganador>
+        <foto-ganador>https://soymotor.com/sites/default/files/styles/small/public/imagenes/piloto/perfil-lewis-hamilton-2022-soymotor_0.png</foto-ganador>
+        <fecha-competicion>2021-03-28</fecha-competicion>
+        <pais-circuito>Bahrein</pais-circuito>
+        <coordenadas-circuito>26.0368368,50.508554,17</coordenadas-circuito>
+        <videos>
+            <video>https://www.youtube.com/watch?v=QuBlV0dixMo</video>
+        </videos>
+        <comentarios>
+            <comentario>Gran carrera para comenzar la temporada</comentario>
+            <comentario>Comienza la temporada con victoria de Hamilton</comentario>
+        </comentarios>
+    </carrera>
+    <carrera>
+        <circuito>Autodromo Enzo e Dino Ferrari</circuito>
+        <ganador>M.Verstappen</ganador>
+        <nacimiento-ganador>1997-09-30</nacimiento-ganador>
+        <pais-ganador>Paises Bajos</pais-ganador>
+        <coordenadas-nacimiento-ganador>50.9244913,5.1734629,11</coordenadas-nacimiento-ganador>
+        <foto-ganador>https://cdn-8.motorsport.com/images/mgl/24vA3r46/s8/max-verstappen-red-bull-racing-1.jpg</foto-ganador>
+        <fecha-competicion>2021-04-18</fecha-competicion>
+        <pais-circuito>Italia</pais-circuito>
+        <coordenadas-circuito>44.3440776,11.7121622,17</coordenadas-circuito>
+        <videos>
+            <video>https://www.youtube.com/watch?v=ds0BC8RDJ5o</video>
+            <video>https://www.youtube.com/watch?v=xY1io9qtx_E</video>
+        </videos>
+        <comentarios>
+            <comentario>Verstappen se adelanta a Hamilton en la segunda carrera del año</comentario>
+        </comentarios>
+    </carrera>
+    <carrera>
+        <circuito>Autódromo Internacional do Algarve</circuito>
+        <ganador>L.Hamilton</ganador>
+        <nacimiento-ganador>1985-01-07</nacimiento-ganador>
+        <pais-ganador>Gran Bretaña</pais-ganador>
+        <coordenadas-nacimiento-ganador>51.902617,-0.2278547,13</coordenadas-nacimiento-ganador>
+        <foto-ganador>https://soymotor.com/sites/default/files/styles/small/public/imagenes/piloto/perfil-lewis-hamilton-2022-soymotor_0.png</foto-ganador>
+        <fecha-competicion>2021-05-02</fecha-competicion>
+        <pais-circuito>Portugal</pais-circuito>
+        <coordenadas-circuito>37.2313374,-8.6305163,17</coordenadas-circuito>
+        <videos>
+            <video>https://www.youtube.com/watch?v=-9-8gvYantk</video>
+        </videos>
+        <comentarios>
+            <comentario>Sigue la lucha entre Hamilton y Verstappen</comentario>
+            <comentario>Hamilton le arrebata el podio a Verstappen esta vez</comentario>
+            <comentario>El coche Mercedes destaca por su superioridad</comentario>
+        </comentarios>
+    </carrera>
+    <carrera>
+        <circuito>Circuit de Barcelona-Catalunya</circuito>
+        <ganador>L.Hamilton</ganador>
+        <nacimiento-ganador>1985-01-07</nacimiento-ganador>
+        <pais-ganador>Gran Bretaña</pais-ganador>
+        <coordenadas-nacimiento-ganador>51.902617,-0.2278547,13</coordenadas-nacimiento-ganador>
+        <foto-ganador>https://soymotor.com/sites/default/files/styles/small/public/imagenes/piloto/perfil-lewis-hamilton-2022-soymotor_0.png</foto-ganador>
+        <fecha-competicion>2021-05-09</fecha-competicion>
+        <pais-circuito>España</pais-circuito>
+        <coordenadas-circuito>41.5684877,2.2551125,17</coordenadas-circuito>
+        <videos>
+            <video>https://www.youtube.com/watch?v=HuLdJLB6sBo</video>
+            <video>https://www.youtube.com/watch?v=-r89PNKDYY8</video>
+            <video>https://www.youtube.com/watch?v=s4crWWSC-aU</video>
+        </videos>
+        <comentarios>
+            <comentario>Se repite la misma historia que en las carreras previas</comentario>
+            <comentario>Bottas no consigue sacarle el rendimiento esperado al coche</comentario>
+        </comentarios>
+    </carrera>
+    <carrera>
+        <circuito>Circuito de Mónaco</circuito>
+        <ganador>M.Verstappen</ganador>
+        <nacimiento-ganador>1997-09-30</nacimiento-ganador>
+        <pais-ganador>Paises Bajos</pais-ganador>
+        <coordenadas-nacimiento-ganador>50.9244913,5.1734629,11</coordenadas-nacimiento-ganador>
+        <foto-ganador>https://cdn-8.motorsport.com/images/mgl/24vA3r46/s8/max-verstappen-red-bull-racing-1.jpg</foto-ganador>
+        <fecha-competicion>2021-05-23</fecha-competicion>
+        <pais-circuito>Mónaco</pais-circuito>
+        <coordenadas-circuito>44.422333,-4.2436169,6</coordenadas-circuito>
+        <videos>
+            <video>https://www.youtube.com/watch?v=GK5qm8AZ1dQ</video>
+        </videos>
+        <comentarios>
+            <comentario>Verstappen supera otra vez a Hamilton</comentario>
+            <comentario>Hamilton cae a la 7º posición, lo que da ventaja a Verstappen</comentario>
+            <comentario>El mundial comienza a ponerse reñido</comentario>
+            <comentario>El español Carlos Sainz consigue el primer podio de la temporada</comentario>
+        </comentarios>
+    </carrera>
+    <carrera>
+        <circuito>Circuito callejero de Bakú</circuito>
+        <ganador>S.Perez</ganador>
+        <nacimiento-ganador>1990-01-26</nacimiento-ganador>
+        <pais-ganador>Mexico</pais-ganador>
+        <coordenadas-nacimiento-ganador>40.6321849,-3.2081919,13</coordenadas-nacimiento-ganador>
+        <foto-ganador>https://cdn-5.motorsport.com/images/mgl/0a9neZP0/s8/sergio-perez-red-bull-racing-1.jpg</foto-ganador>
+        <fecha-competicion>2021-06-06</fecha-competicion>
+        <pais-circuito>Azerbaiyan</pais-circuito>
+        <coordenadas-circuito>40.3729222,49.8509929,17</coordenadas-circuito>
+        <videos>
+            <video>https://www.youtube.com/watch?v=suZHkUxPzjE</video>
+            <video>https://www.youtube.com/watch?v=GqLRwtyjpUY</video>
+        </videos>
+        <comentarios>
+            <comentario>Ni Verstappen ni Hamilton consiguen hacer podio</comentario>
+            <comentario>S.Perez consigue su primera victoria de la temporada</comentario>
+            <comentario>Alpha tauri y Aston Martin consiguen hacer podio por primera vez en la temporada</comentario>
+        </comentarios>
+    </carrera>
+    <carrera>
+        <circuito>Circuito Paul Ricard</circuito>
+        <ganador>M.Verstappen</ganador>
+        <nacimiento-ganador>1997-09-30</nacimiento-ganador>
+        <pais-ganador>Paises Bajos</pais-ganador>
+        <coordenadas-nacimiento-ganador>50.9244913,5.1734629,11</coordenadas-nacimiento-ganador>
+        <foto-ganador>https://cdn-8.motorsport.com/images/mgl/24vA3r46/s8/max-verstappen-red-bull-racing-1.jpg</foto-ganador>
+        <fecha-competicion>2021-06-20</fecha-competicion>
+        <pais-circuito>Francia</pais-circuito>
+        <coordenadas-circuito>43.2490101,5.7861183,17</coordenadas-circuito>
+        <videos>
+            <video>https://www.youtube.com/watch?v=5hBwgJtMxLM</video>
+        </videos>
+        <comentarios>
+            <comentario>Verstappen y Hamilton consiguen volver al podio como es habitual</comentario>
+            <comentario>Bottas sigue sin sacar rendimiento al coche</comentario>
+            <comentario>RedBull pisa fuerte en el campeonato de constructores con el podio de Perez</comentario>
+        </comentarios>
+    </carrera>
+    <carrera>
+        <circuito>Red Bull Ring</circuito>
+        <ganador>M.Verstappen</ganador>
+        <nacimiento-ganador>1997-09-30</nacimiento-ganador>
+        <pais-ganador>Paises Bajos</pais-ganador>
+        <coordenadas-nacimiento-ganador>50.9244913,5.1734629,11</coordenadas-nacimiento-ganador>
+        <foto-ganador>https://cdn-8.motorsport.com/images/mgl/24vA3r46/s8/max-verstappen-red-bull-racing-1.jpg</foto-ganador>
+        <fecha-competicion>2021-06-27</fecha-competicion>
+        <pais-circuito>Austria</pais-circuito>
+        <coordenadas-circuito>47.2201846,14.7629977,17</coordenadas-circuito>
+        <videos>
+            <video>https://www.youtube.com/watch?v=LxLVqf5OtIE</video>
+        </videos>
+        <comentarios>
+            <comentario>Se repite el mismo escenario de la carrera anterior</comentario>
+            <comentario>Bottas consigue mejorar los resultados y vuelve a conseguir el podio</comentario>
+            <comentario>Cada vez se aprieta más el mundial de constructores con los podios intermitentes de sus pilotos</comentario>
+        </comentarios>
+    </carrera>
+    <carrera>
+        <circuito>Red Bull Ring</circuito>
+        <ganador>M.Verstappen</ganador>
+        <nacimiento-ganador>1997-09-30</nacimiento-ganador>
+        <pais-ganador>Paises Bajos</pais-ganador>
+        <coordenadas-nacimiento-ganador>50.9244913,5.1734629,11</coordenadas-nacimiento-ganador>
+        <foto-ganador>https://cdn-8.motorsport.com/images/mgl/24vA3r46/s8/max-verstappen-red-bull-racing-1.jpg</foto-ganador>
+        <fecha-competicion>2021-07-04</fecha-competicion>
+        <pais-circuito>Austria</pais-circuito>
+        <coordenadas-circuito>47.2201846,14.7629977,17</coordenadas-circuito>
+        <videos>
+            <video>https://www.youtube.com/watch?v=a2kkuQS_gXk</video>
+        </videos>
+        <comentarios>
+            <comentario>Verstappen consigue su tercera victoria consecutiva</comentario>
+            <comentario>Hamilton cae del podio a la 4º posición</comentario>
+            <comentario>Bottas consigue la segunda posicion</comentario>
+            <comentario>Norris consigue su primer podio de la temporada con la tercera posicion</comentario>
+        </comentarios>
+    </carrera>
+    <carrera>
+        <circuito>Circuito de Silverstone</circuito>
+        <ganador>L.Hamilton</ganador>
+        <nacimiento-ganador>1985-01-07</nacimiento-ganador>
+        <pais-ganador>Gran Bretaña</pais-ganador>
+        <coordenadas-nacimiento-ganador>51.902617,-0.2278547,13</coordenadas-nacimiento-ganador>
+        <foto-ganador>https://soymotor.com/sites/default/files/styles/small/public/imagenes/piloto/perfil-lewis-hamilton-2022-soymotor_0.png</foto-ganador>
+        <fecha-competicion>2021-07-18</fecha-competicion>
+        <pais-circuito>Gran Bretaña</pais-circuito>
+        <coordenadas-circuito>52.0733039,-1.0168521,17</coordenadas-circuito>
+        <videos>
+            <video>https://www.youtube.com/watch?v=FRt8hXFb0Vg</video>
+            <video>https://www.youtube.com/watch?v=FpxLgpW1lcA</video>
+            <video>https://www.youtube.com/watch?v=63kGvTbB8V8</video>
+        </videos>
+        <comentarios>
+            <comentario>Hamilton consigue romper la racha de Verstappen y consigue la victoria en casa</comentario>
+            <comentario>Verstappen no consigue terminar la carrera al igual que Vettel</comentario>
+            <comentario>Ferrari consigue llegar al podio con la segunda posicion de Leclerc</comentario>
+            <comentario>Los dos mercedes llegan al podio con la tercera posición de Bottas</comentario>
+            <comentario>Los Españoles Alonso y Sainz consiguen la 7º y 6º posicion respectivamente</comentario>
+        </comentarios>
+    </carrera>
+    <carrera>
+        <circuito>Hungaroring</circuito>
+        <ganador>E.Ocon</ganador>
+        <nacimiento-ganador>1996-09-17</nacimiento-ganador>
+        <pais-ganador>Francia</pais-ganador>
+        <coordenadas-nacimiento-ganador>49.0180022,1.0705828,12</coordenadas-nacimiento-ganador>
+        <foto-ganador>https://cdn-7.motorsport.com/images/mgl/6zQ7ev7Y/s8/esteban-ocon-alpine-1.jpg</foto-ganador>
+        <fecha-competicion>2021-08-01</fecha-competicion>
+        <pais-circuito>Hungría</pais-circuito>
+        <coordenadas-circuito>47.5817147,19.2484219,17</coordenadas-circuito>
+        <videos>
+            <video>https://www.youtube.com/watch?v=a2kkuQS_gXk</video>
+        </videos>
+        <comentarios>
+            <comentario>Ocon consigue su primera victoria del año</comentario>
+            <comentario>Verstappen cae a la novena posicion lo cual da ventaja a Hamilton en el mundial con su segunda posición</comentario>
+            <comentario>Ferrari consigue llegar al podio con la tercera posicion de Sainz esta vez</comentario>
+            <comentario>A F.Alonso se le resiste el podio con su cuarta posicion en la carrera</comentario>
+        </comentarios>
+    </carrera>
+    <carrera>
+        <circuito>Circuito de Spa-Francorchamps</circuito>
+        <ganador>M.Verstappen</ganador>
+        <nacimiento-ganador>1997-09-30</nacimiento-ganador>
+        <pais-ganador>Paises Bajos</pais-ganador>
+        <coordenadas-nacimiento-ganador>50.9244913,5.1734629,11</coordenadas-nacimiento-ganador>
+        <foto-ganador>https://cdn-8.motorsport.com/images/mgl/24vA3r46/s8/max-verstappen-red-bull-racing-1.jpg</foto-ganador>
+        <fecha-competicion>2021-08-29</fecha-competicion>
+        <pais-circuito>Bélgica</pais-circuito>
+        <coordenadas-circuito>50.4369152,5.9698613,17</coordenadas-circuito>
+        <videos>
+            <video>https://www.youtube.com/watch?v=MjmywbEfzk0</video>
+        </videos>
+        <comentarios>
+            <comentario>Verstappen se recupera y vuelve a conseguir la victoria</comentario>
+            <comentario>Russel consigue la segunda posición por delante de Hamilton</comentario>
+        </comentarios>
+    </carrera>
+    <carrera>
+        <circuito>Circuito de Zandvoort</circuito>
+        <ganador>M.Verstappen</ganador>
+        <nacimiento-ganador>1997-09-30</nacimiento-ganador>
+        <pais-ganador>Paises Bajos</pais-ganador>
+        <coordenadas-nacimiento-ganador>50.9244913,5.1734629,11</coordenadas-nacimiento-ganador>
+        <foto-ganador>https://cdn-8.motorsport.com/images/mgl/24vA3r46/s8/max-verstappen-red-bull-racing-1.jpg</foto-ganador>
+        <fecha-competicion>2021-09-05</fecha-competicion>
+        <pais-circuito>Paises Bajos</pais-circuito>
+        <coordenadas-circuito>52.3877114,4.5420241,17</coordenadas-circuito>
+        <videos>
+            <video>https://www.youtube.com/watch?v=rXhGajRFLlY</video>
+            <video>https://www.youtube.com/watch?v=xtTHFMo63k8</video>
+        </videos>
+        <comentarios>
+            <comentario>Verstappen vuelve a conseguir la victoria, además en casa al igual que hizo Hamilton previamente</comentario>
+            <comentario>El mundial de pilotos comienza a ponerse muy competitivo</comentario>
+            <comentario>Mercedes sigue asentandose en los podios, con la ausencia de S.Perez por parte de RedBull</comentario>
+        </comentarios>
+    </carrera>
+    <carrera>
+        <circuito>Autodromo Nacional de Monza</circuito>
+        <ganador>D.Ricciardo</ganador>
+        <nacimiento-ganador>1989-07-01</nacimiento-ganador>
+        <pais-ganador>Australia</pais-ganador>
+        <coordenadas-nacimiento-ganador>-32.0397559,115.6813467,10</coordenadas-nacimiento-ganador>
+        <foto-ganador>https://cdn-3.motorsport.com/images/mgl/24vA4nA6/s800/daniel-ricciardo-mclaren-1.jpg</foto-ganador>
+        <fecha-competicion>2021-09-12</fecha-competicion>
+        <pais-circuito>Italia</pais-circuito>
+        <coordenadas-circuito>45.6218027,9.2826113,17</coordenadas-circuito>
+        <videos>
+            <video>https://www.youtube.com/watch?v=1ZgniFQiTPA</video>
+            <video>https://www.youtube.com/watch?v=B0AX7-gODqU</video>
+        </videos>
+        <comentarios>
+            <comentario>Verstappen y Hamilton no terminan la carrera despues de un accidente entre ambos</comentario>
+            <comentario>Aumenta la tension en el mundial de pilotos y constructores despues del altercado entre ambos</comentario>
+            <comentario>Ricciardo consigue su primera victoria, Norris vuelve al podio y Bottas mantiene su tercera posición</comentario>
+        </comentarios>
+    </carrera>
+    <carrera>
+        <circuito>Autódromo de Sochi</circuito>
+        <ganador>L.Hamilton</ganador>
+        <nacimiento-ganador>1985-01-07</nacimiento-ganador>
+        <pais-ganador>Gran Bretaña</pais-ganador>
+        <coordenadas-nacimiento-ganador>51.902617,-0.2278547,13</coordenadas-nacimiento-ganador>
+        <foto-ganador>https://soymotor.com/sites/default/files/styles/small/public/imagenes/piloto/perfil-lewis-hamilton-2022-soymotor_0.png</foto-ganador>
+        <fecha-competicion>2021-09-26</fecha-competicion>
+        <pais-circuito>Rusia</pais-circuito>
+        <coordenadas-circuito>43.409989,39.9668377,17</coordenadas-circuito>
+        <videos>
+            <video>https://www.youtube.com/watch?v=Jjw1x6xQo7s</video>
+        </videos>
+        <comentarios>
+            <comentario>Verstappen y Hamilton vuelven al podio y Hamilton le arrebata la victoria a su rival</comentario>
+            <comentario>El mundial sigue apretado y ninguno consigue sacar demasiada ventaja</comentario>
+            <comentario>Carlos Sainz consigue volver al podio con la tercera posición por delante de Ricciardo</comentario>
+        </comentarios>
+    </carrera>
+    <carrera>
+        <circuito>Circuito de Estambul</circuito>
+        <ganador>V.Bottas</ganador>
+        <nacimiento-ganador>1989-08-28</nacimiento-ganador>
+        <pais-ganador>Finlandia</pais-ganador>
+        <coordenadas-nacimiento-ganador>60.9481014,25.9162022,14</coordenadas-nacimiento-ganador>
+        <foto-ganador>https://static.motor.es/f1/fichas/contenido/valtteri-bottas/valtteri-bottas2021_1617632013.jpg</foto-ganador>
+        <fecha-competicion>2021-10-10</fecha-competicion>
+        <pais-circuito>Turquía</pais-circuito>
+        <coordenadas-circuito>40.9576849,29.4084442,17</coordenadas-circuito>
+        <videos>
+            <video>https://www.youtube.com/watch?v=ZGRpHy0qoN4</video>
+            <video>https://www.youtube.com/watch?v=UFhH1TfZXcg</video>
+        </videos>
+        <comentarios>
+            <comentario>Bottas consigue hacer frente a las críticas y consigue la primera victoria del año</comentario>
+            <comentario>RedBull consigue ventaja importante con el podio de Verstappen y Perez</comentario>
+            <comentario>Hamilton cae a la 5º posición</comentario>
+        </comentarios>
+    </carrera>
+    <carrera>
+        <circuito>Circuito de las Américas</circuito>
+        <ganador>M.Verstappen</ganador>
+        <nacimiento-ganador>1997-09-30</nacimiento-ganador>
+        <pais-ganador>Paises Bajos</pais-ganador>
+        <coordenadas-nacimiento-ganador>50.9244913,5.1734629,11</coordenadas-nacimiento-ganador>
+        <foto-ganador>https://cdn-8.motorsport.com/images/mgl/24vA3r46/s8/max-verstappen-red-bull-racing-1.jpg</foto-ganador>
+        <fecha-competicion>2021-10-24</fecha-competicion>
+        <pais-circuito>Estados Unidos</pais-circuito>
+        <coordenadas-circuito>30.1345854,-97.6380398,17</coordenadas-circuito>
+        <videos>
+            <video>https://www.youtube.com/watch?v=-Ee08uFurok</video>
+        </videos>
+        <comentarios>
+            <comentario>Verstappen vuelve a ganar con Hamilton pisandole los pies</comentario>
+            <comentario>RedBull sigue sacando ventaja con la victoria de Verstappen y el podio de Perez</comentario>
+        </comentarios>
+    </carrera>
+    <carrera>
+        <circuito>Autódromo Hermanos Rodríguez</circuito>
+        <ganador>M.Verstappen</ganador>
+        <nacimiento-ganador>1997-09-30</nacimiento-ganador>
+        <pais-ganador>Paises Bajos</pais-ganador>
+        <coordenadas-nacimiento-ganador>50.9244913,5.1734629,11</coordenadas-nacimiento-ganador>
+        <foto-ganador>https://cdn-8.motorsport.com/images/mgl/24vA3r46/s8/max-verstappen-red-bull-racing-1.jpg</foto-ganador>
+        <fecha-competicion>2021-11-07</fecha-competicion>
+        <pais-circuito>Mexico</pais-circuito>
+        <coordenadas-circuito>19.4059498,-99.0947103,17</coordenadas-circuito>
+        <videos>
+            <video>https://www.youtube.com/watch?v=2yYtH0HAL-U</video>
+            <video>https://www.youtube.com/watch?v=DOpWg8Mbewg</video>
+            <video>https://www.youtube.com/watch?v=_NxTM9-XfgA</video>
+        </videos>
+        <comentarios>
+            <comentario>Se repite la historia una vez más y Verstappen consigue la victoria y Hamilton en segunda posición</comentario>
+            <comentario>RedBull sigue sacando ventaja con la victoria de Verstappen y el podio de Perez</comentario>
+            <comentario>Bottas sigue con malos resultados y cae a la 15º posición</comentario>
+            <comentario>Gasly consigue una buena posicion y llega hasta el 4º puesto</comentario>
+        </comentarios>
+    </carrera>
+    <carrera>
+        <circuito>Autódromo José Carlos Pace</circuito>
+        <ganador>L.Hamilton</ganador>
+        <nacimiento-ganador>1985-01-07</nacimiento-ganador>
+        <pais-ganador>Gran Bretaña</pais-ganador>
+        <coordenadas-nacimiento-ganador>51.902617,-0.2278547,13</coordenadas-nacimiento-ganador>
+        <foto-ganador>https://soymotor.com/sites/default/files/styles/small/public/imagenes/piloto/perfil-lewis-hamilton-2022-soymotor_0.png</foto-ganador>
+        <fecha-competicion>2021-11-14</fecha-competicion>
+        <pais-circuito>Brasil</pais-circuito>
+        <coordenadas-circuito>-23.7011801,-46.7001431,17</coordenadas-circuito>
+        <videos>
+            <video>https://www.youtube.com/watch?v=icesjjvN6Sc</video>
+        </videos>
+        <comentarios>
+            <comentario>Esta vez se le da la vuelta a la tortilla y Hamilton se adelanta a Verstappen, Bottas consigue podio por delante de Perez</comentario>
+            <comentario>Ferrari lucha por la tercera posicion en el mundial de constructores por detras de RedBull y Mercedes</comentario>
+        </comentarios>
+    </carrera>
+    <carrera>
+        <circuito>Circuito Internacional de Losail</circuito>
+        <ganador>L.Hamilton</ganador>
+        <nacimiento-ganador>1985-01-07</nacimiento-ganador>
+        <pais-ganador>Gran Bretaña</pais-ganador>
+        <coordenadas-nacimiento-ganador>51.902617,-0.2278547,13</coordenadas-nacimiento-ganador>
+        <foto-ganador>https://soymotor.com/sites/default/files/styles/small/public/imagenes/piloto/perfil-lewis-hamilton-2022-soymotor_0.png</foto-ganador>
+        <fecha-competicion>2021-11-21</fecha-competicion>
+        <pais-circuito>Catar</pais-circuito>
+        <coordenadas-circuito>25.4862879,51.4507025,17</coordenadas-circuito>
+        <videos>
+            <video>https://www.youtube.com/watch?v=CZy-NZF8mEA</video>
+        </videos>
+        <comentarios>
+            <comentario>Se repite otra vez el resultado anterior salvo con una novedad en la tercea posicion</comentario>
+            <comentario>Fernando Alonso consigue su primer podio de la temporada y suma puntos importantes a Alpine</comentario>
+            <comentario>Sergio Perez lleva tiempo sin conseguir el podio</comentario>
+            <comentario>El mundial esta muy apretado, se decidirá en las ultimas carreras</comentario>
+        </comentarios>
+    </carrera>
+    <carrera>
+        <circuito>Jeddah Corniche Circuit</circuito>
+        <ganador>L.Hamilton</ganador>
+        <nacimiento-ganador>1985-01-07</nacimiento-ganador>
+        <pais-ganador>Gran Bretaña</pais-ganador>
+        <coordenadas-nacimiento-ganador>51.902617,-0.2278547,13</coordenadas-nacimiento-ganador>
+        <foto-ganador>https://soymotor.com/sites/default/files/styles/small/public/imagenes/piloto/perfil-lewis-hamilton-2022-soymotor_0.png</foto-ganador>
+        <fecha-competicion>2021-12-05</fecha-competicion>
+        <pais-circuito>Arabia Saudita</pais-circuito>
+        <coordenadas-circuito>21.6482518,39.0852369,15</coordenadas-circuito>
+        <videos>
+            <video>https://www.youtube.com/watch?v=vRhhS6BnLSY</video>
+        </videos>
+        <comentarios>
+            <comentario>Luis Hamilton consigue la victoria, Verstappen la segunda posicion, Bottas en tercera posicion</comentario>
+            <comentario>El mundial sigue sin decidirse, se decidirá en la ultima carrera</comentario>
+            <comentario>Se espera máxima tension para RedBull y Mercedes en la última carrera</comentario>
+        </comentarios>
+    </carrera>
+    <carrera>
+        <circuito>Circuito Yas Marina</circuito>
+        <ganador>M.Verstappen</ganador>
+        <nacimiento-ganador>1997-09-30</nacimiento-ganador>
+        <pais-ganador>Países Bajos</pais-ganador>
+        <coordenadas-nacimiento-ganador>50.9244913,5.1734629,11</coordenadas-nacimiento-ganador>
+        <foto-ganador>https://cdn-8.motorsport.com/images/mgl/24vA3r46/s8/max-verstappen-red-bull-racing-1.jpg</foto-ganador>
+        <fecha-competicion>2021-12-12</fecha-competicion>
+        <pais-circuito>Emiratos Arabes Unidos</pais-circuito>
+        <coordenadas-circuito>35.5185548,25.6998673,5</coordenadas-circuito>
+        <videos>
+            <video>https://www.youtube.com/watch?v=7QJ-N-AQJYc</video>
+            <video>https://www.youtube.com/watch?v=aS7sAjWF1Vg</video>
+        </videos>
+        <comentarios>
+            <comentario>Verstappen se hace con la victoria y Hamilton con la segunda posicion, la tercera va para Sainz</comentario>
+            <comentario>El joven piloto Max Verstappen gana su primer mundial y rompe con el reinado de Hamilton</comentario>
+            <comentario>Se acaba el mundial con una de las temporadas con más tensión y competicion por el primer puesto de la historia</comentario>
+        </comentarios>
+    </carrera>
+</carreras>
